@@ -19,7 +19,7 @@ Repository này được tạo ra với mục đích lưu trữ mã nguồn, bá
 ## 👨‍🏫 Thông tin Giảng viên
 
 * **Giảng viên lý thuyết:** TS. Lưu Thanh Sơn
-* **Giảng viên thực hành:** GV Nguyễn Hiếu Nghĩa
+* **Giảng viên thực hành:** ThS. Nguyễn Hiếu Nghĩa
 
 ## 👥 Thông tin Sinh viên thực hiện
 
