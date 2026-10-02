@@ -23,7 +23,7 @@ Repository này được tạo ra với mục đích lưu trữ mã nguồn, bá
 
 ## 👥 Thông tin Sinh viên thực hiện
 
-| MSSV | Họ và tên Sinh viên |
+| MSSV | Họ và tên|
 | :---: | :--- |
 | `24521314` | Nguyễn Văn Phát |
 
