@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS artifacts
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+._*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Large datasets / junctions if any
+chest_xray/
+*.zip
+*.tar.gz
